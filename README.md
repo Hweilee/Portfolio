@@ -33,7 +33,8 @@ This project explores shopper/customer behavior using Python. It includes:
 
 1. Open `Shopper_behaviour (1).ipynb` in Colab
 2. Upload the dataset CSV when prompted (or update the file path in the notebook)
-3. Run all cells top to bottom
+3. Change the data path at line 2. #data = pd.read_csv("   ")
+4. Run all cells top to bottom
 
 ### Option B — Local Jupyter
 
